@@ -1,6 +1,8 @@
 # classifylasso
 Identify latent group structures via Classifier-Lasso Use classifylasso With STATA 19
 
+https://www.youtube.com/watch?v=eOrcviMtJOE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
